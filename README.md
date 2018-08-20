@@ -8,3 +8,6 @@ Enter 3 card numbers. If it equals 21 print BLACKJACK!, if it’s greater than 2
 
 ### Exercise 5:
 Ask the user to enter a number. Ask the user to enter another number. If the first number is greater than the second number print “The first number is greater!!!”. If the second number is greater print “The second number is greater!!!”
+
+
+testing github merge 2018-08-20
